@@ -85,7 +85,3 @@ Run the script `niticu.py` in your Python environment. Make sure the `Dataset_Fi
 For questions or collaboration, feel free to reach out or open an issue in the repository.
 
 ***
-
-This README provides all necessary details to understand, run, and extend the project in NiTiCu hysteresis prediction.
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/67901539/849a7bbf-4713-4e1d-a1dd-3fd3e438378f/niticu.py
